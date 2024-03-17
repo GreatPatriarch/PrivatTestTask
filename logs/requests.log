@@ -1,0 +1,14 @@
+2024-03-17 15:17:58 INFO  com.privat.logger.LoggingInterceptor 19 preHandle - Request URL:::: Start Time=1710681478750
+2024-03-17 15:17:58 INFO  com.privat.logger.LoggingInterceptor 24 postHandle - Response status: null::Time Taken=163
+2024-03-17 15:18:21 INFO  com.privat.logger.LoggingInterceptor 19 preHandle - Request URL:::: Start Time=1710681501898
+2024-03-17 15:18:21 INFO  com.privat.logger.LoggingInterceptor 24 postHandle - Response status: null::Time Taken=94
+2024-03-17 15:18:29 INFO  com.privat.logger.LoggingInterceptor 19 preHandle - Request URL:::: Start Time=1710681509909
+2024-03-17 15:18:29 INFO  com.privat.logger.LoggingInterceptor 24 postHandle - Response status: null::Time Taken=3
+2024-03-17 15:22:30 INFO  com.privat.logger.LoggingInterceptor 20 preHandle - Request URL::http://localhost:8080/api/users/2:: Request Params::null:: Start Time=1710681750970
+2024-03-17 15:22:31 INFO  com.privat.logger.LoggingInterceptor 26 afterCompletion - Response Status::200::Time Taken=183
+2024-03-17 15:26:17 INFO  com.privat.logger.LoggingInterceptor 20 preHandle - Request Method::GET::Request URL::http://localhost:8080/api/users/2:: Request Params::null:: Start Time=1710681977440
+2024-03-17 15:26:17 INFO  com.privat.logger.LoggingInterceptor 27 afterCompletion - Response Status::200::Time Taken=164
+2024-03-17 15:26:59 INFO  com.privat.logger.LoggingInterceptor 20 preHandle - Request Method::POST::Request URL::http://localhost:8080/api/users/add:: Request Params::null:: Start Time=1710682019581
+2024-03-17 15:26:59 INFO  com.privat.logger.LoggingInterceptor 27 afterCompletion - Response Status::200::Time Taken=183
+2024-03-17 15:29:24 INFO  com.privat.logger.LoggingInterceptor 20 preHandle - Request Method::POST::Request URL::http://localhost:8080/api/users/add:: Start Time=1710682164513
+2024-03-17 15:29:24 INFO  com.privat.logger.LoggingInterceptor 27 afterCompletion - Response Status::200::Time Taken=325
